@@ -1,0 +1,15 @@
+ĐỒ ÁN  2 LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG: Chương trình quản lí thư viện
+
+Sinh viên: Trần Trí Thoại
+Mã số: 18120581
+
+ƯU ĐIỂM LÀM ĐƯỢC:
+
++ Chương trình có thể kiểm tra xem đọc giả hay sách có nằm trong danh sách của thư viện hay không khi thực hiện các chức năng liên quan. Nên mã sách và mã đọc giả là không thể trùng nhau.
+
++ Nhập ngày mượn và ngày trả sách từ đó tính ra số ngày quá hạn. Xử lý nhập ngày hợp lệ và ngày trả phải sau ngày mượn sách.
+
+NHƯỢC ĐIỂM:
+
++ Không cập nhật lại dữ liệu sau khi thực hiện các thao tác(chương trình chỉ đọc dữ liệu từ file gốc mà không ghi lại). Vì chương trình quản lí theo mã số nên sẽ chồng chéo dữ liệu sau nhiều thêm, xóa, sửa...
+
